@@ -1,0 +1,23 @@
+{
+  "name": "otodik_gyakorlati_feladatunk",
+  "version": "1.0.0",
+  "description": "**Server port:** 2536<br>  **Server start:** \"npm start\"<br>  **Folder:** *public*",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bencetuzson/otodik_gyakorlati_feladatunk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bencetuzson/otodik_gyakorlati_feladatunk/issues"
+  },
+  "homepage": "https://github.com/bencetuzson/otodik_gyakorlati_feladatunk#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
