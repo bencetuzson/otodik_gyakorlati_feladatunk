@@ -3,6 +3,23 @@ html, body {
 }
 
 #MainTable {
+    text-align: left;
+    width: 100%;
+    padding: 1vw;
+    vertical-align: top;
+}
+
+#NavSide {
+    vertical-align: top;
+    position: fixed;
+}
+
+#PageSide {
+    vertical-align: top;
+    width: 72vw;
+    padding-top: 1vw;
+    padding-left: 5%;
+    padding-right: 5%;
 }
 
 #MainMenu {
@@ -70,7 +87,6 @@ html, body {
 
 .overflow img:hover {
     transform: scale(1.21);
-    cursor: pointer;
 }
 
 @keyframes menuHover {
