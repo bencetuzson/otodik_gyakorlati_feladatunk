@@ -4,10 +4,12 @@
 
 .bio {
     text-align: justify;
+    font-size: 0.85vw;
 }
 
 .poem {
     text-align: center;
+    font-size: 0.85vw;
 }
 .mainHeader {
     text-align: center;

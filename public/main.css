@@ -17,8 +17,8 @@ html, body {
 #PageSide {
     vertical-align: top;
     width: 72vw;
-    padding-left: 5%;
-    padding-right: 5%   ;
+    padding-left: 2%;
+    padding-right: 2%   ;
 }
 
 #MainMenu {
@@ -94,4 +94,23 @@ html, body {
 
 @keyframes menuNotHover {
     to {width: 10vw}
+}
+
+h1 {
+    font-size: 2vw;
+}
+
+h2 {
+    font-size: 1.5vw;
+}
+
+.link {
+    text-align: right;
+    line-height: 50%;
+}
+
+weblink {
+    font-family: monospace;
+    font-style: italic;
+    font-size: 0.65vw;
 }
