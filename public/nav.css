@@ -13,7 +13,6 @@
     text-align: center;
     /*display: inline-block;*/
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 1.75vw;
     /*padding-bottom: 3px;*/
     display: block;
     padding: 1.4vw 0;
@@ -67,4 +66,12 @@
 
 .navMenu img {
     box-shadow: 0 0.20833333333333334vw 0.4166666666666667vw 0 rgba(0, 0, 0, 0.2), 0 0.3125vw 1.0416666666666665vw 0 rgba(0, 0, 0, 0.19);
+}
+
+.header1 {
+    font-size: 1.75vw;
+}
+
+.header2 {
+    font-size: 1.2vw;
 }
