@@ -18,7 +18,7 @@ html, body {
     vertical-align: top;
     width: 72vw;
     padding-left: 2%;
-    padding-right: 2%   ;
+    padding-right: 2%;
 }
 
 h1 {
@@ -30,7 +30,6 @@ h2 {
 }
 
 .link {
-    text-align: right;
     line-height: 50%;
 }
 
