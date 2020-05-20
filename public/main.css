@@ -22,7 +22,7 @@ html, body {
 }
 
 #MainMenu {
-    width: 0px;
+    width: min-content;
     height: 40vh;
     text-align: center;
     vertical-align: center;
@@ -73,8 +73,8 @@ html, body {
     left: 0;
     margin: 0;
     display: block;
-    width: 100%;
-    height: 100%;
+    width: min-content;
+    height: min-content;
     position: relative;
     overflow: hidden;
 }
