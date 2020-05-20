@@ -42,17 +42,18 @@
 
 .borderOut {
     vertical-align: top;
-    width: 0;
+    width: min-content;
     text-align: center;
     background-color: rgb(204, 204, 204);
     border-radius: 0.75vw;
     box-shadow: 0 0.20833333333333334vw 0.4166666666666667vw 0 rgba(0, 0, 0, 0.2), 0 0.3125vw 1.0416666666666665vw 0 rgba(0, 0, 0, 0.19);
-    height: 0;
+    height: min-content;
+    position: fixed;
 }
 
 .borderIn {
     text-align: left;
-    width: 0;
+    width: min-content;
     padding: 0.75vw;
     vertical-align: top;
 }
