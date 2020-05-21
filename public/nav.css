@@ -9,6 +9,10 @@
     line-height: 0.7vw;
 }
 
+.navBar a:hover, .navBar a:visited, .navBar a:link, .navBar a:active {
+    text-decoration: none;
+}
+
 .navItem {
     text-align: center;
     /*display: inline-block;*/
@@ -24,6 +28,7 @@
     color: rgb(255, 216, 109);
     background-color: rgb(140, 140, 140);
 }
+
 
 .navUp {
     border-top-left-radius: 0.4875vw;
